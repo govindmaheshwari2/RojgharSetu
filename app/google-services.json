@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283304693909",
+    "firebase_url": "https://rozghar-setu.firebaseio.com",
+    "project_id": "rozghar-setu",
+    "storage_bucket": "rozghar-setu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283304693909:android:0cae33f372ec527af1cb9c",
+        "android_client_info": {
+          "package_name": "com.up.rojgharsetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283304693909-lia1dt2squr2trncvi729fk91bv354ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.up.rojgharsetu",
+            "certificate_hash": "1d294f29dfd011d3f1a0ca1b9235eec04d136b7f"
+          }
+        },
+        {
+          "client_id": "283304693909-v2ot2g3c2l0djbuvq4vthp2nigr48hv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8rFlUMGBawfD1C43bqWAV5OrXALf6k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283304693909-v2ot2g3c2l0djbuvq4vthp2nigr48hv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
